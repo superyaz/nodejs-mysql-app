@@ -1,6 +1,8 @@
 # nodejs-mysql-app
 Crearemos una aplicación completa con nodejs y mysql, la aplicación sirve para guardar nuestros sitios web favoritos.
 
+### Ingresa al siguiente link para validar el proyecto https://linksfavorite.herokuapp.com/
+
 ## Home
 ![home](https://user-images.githubusercontent.com/38477245/67229488-035bc000-f401-11e9-9032-4bfdd75a911c.JPG)
 
